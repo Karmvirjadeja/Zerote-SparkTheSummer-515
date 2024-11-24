@@ -6,3 +6,4 @@ const router = express.Router();
 router.post("/login", login);
 
 export default router;
+// this is good auth
